@@ -1,3 +1,6 @@
 [submodule "webex-bin"]
 	path = webex-bin
 	url = https://github.com/nr23730/arch-webex-bin
+[submodule "rstudio-desktop-bin"]
+	path = rstudio-desktop-bin
+	url = https://github.com/nr23730/arch-rstudio-desktop-bin
